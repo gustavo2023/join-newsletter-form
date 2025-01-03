@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://gustavo2023.github.io/join-newsletter-form/">
       Solution
     </a>
     <span> | </span>
